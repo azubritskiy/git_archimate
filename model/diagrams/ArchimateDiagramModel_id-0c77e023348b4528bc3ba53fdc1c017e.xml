@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Default View"
-    id="id-0c77e023348b4528bc3ba53fdc1c017e"/>
+    name="Enicom"
+    id="id-0c77e023348b4528bc3ba53fdc1c017e">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2faaa33ce4ed4beaa08d36634a3fe6b3">
+    <bounds
+        x="720"
+        y="318"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-930445f208e84ccaa2c7bf54ed82ffbb.xml#id-930445f208e84ccaa2c7bf54ed82ffbb"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,14 +1,14 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Enicom"
-    id="id-0c77e023348b4528bc3ba53fdc1c017e">
+    name="Enicom 2"
+    id="id-ecc9a38b13d74ecea3a296c8d256f3e6">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-facd111feb684d928c306dd90ae66a7f">
+      id="id-37a2a46fd9d042068b09af8aef540dcf">
     <bounds
-        x="636"
-        y="276"
+        x="872"
+        y="431"
         width="120"
         height="55"/>
     <archimateElement
@@ -17,10 +17,10 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-7a097a2b7a2f49a68ddd9fb096811b85">
+      id="id-b6279ef5cfd64db4b22c04dd8209e506">
     <bounds
-        x="348"
-        y="384"
+        x="584"
+        y="539"
         width="120"
         height="55"/>
     <archimateElement
@@ -29,10 +29,10 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-878043dd201146e9a8f80e62a9f7e269">
+      id="id-30ae89f14ed44cd0a3c053bc52252127">
     <bounds
-        x="504"
-        y="384"
+        x="740"
+        y="539"
         width="120"
         height="55"/>
     <archimateElement
@@ -41,10 +41,10 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-d580ef635d4d484ebede496f4b13657c">
+      id="id-e0f5379c5ff8477fae0701537465363c">
     <bounds
-        x="450"
-        y="287"
+        x="686"
+        y="442"
         width="120"
         height="55"/>
     <archimateElement
@@ -53,11 +53,11 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-560d53ef8d2a4f208029399ce91de744"
+      id="id-b109e8390d61494b8c7ade59deb84394"
       fillColor="#89ff80">
     <bounds
-        x="372"
-        y="156"
+        x="548"
+        y="407"
         width="120"
         height="55"/>
     <archimateElement
@@ -66,28 +66,27 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-ecc7966f3a964d66b640f0b066ea3d7a"
-      fillColor="#89ff80">
+      id="id-16aa0a7c7fe24405ae5e3f5cbf3264b3">
     <bounds
-        x="240"
-        y="240"
+        x="636"
+        y="624"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
-        href="BusinessActor_id-fb7ade9682b94516a7d02bb4eb2c5bf8.xml#id-fb7ade9682b94516a7d02bb4eb2c5bf8"/>
+        href="BusinessActor_id-0d8e2f491a564cb2b2ff9c99b1403a36.xml#id-0d8e2f491a564cb2b2ff9c99b1403a36"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-2da7ec52278d4c108e0efeaaad1d2428"
+      id="id-36817b0043e145f4a956018a5019dd3c"
       fillColor="#89ff80">
     <bounds
-        x="180"
-        y="330"
+        x="708"
+        y="336"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
-        href="BusinessActor_id-d611d4acc50f48f08e5b319956e09da5.xml#id-d611d4acc50f48f08e5b319956e09da5"/>
+        href="BusinessActor_id-7d2d98f77ff942d3addd7750b370fd45.xml#id-7d2d98f77ff942d3addd7750b370fd45"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -76,4 +76,17 @@
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-0d8e2f491a564cb2b2ff9c99b1403a36.xml#id-0d8e2f491a564cb2b2ff9c99b1403a36"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-36817b0043e145f4a956018a5019dd3c"
+      fillColor="#89ff80">
+    <bounds
+        x="708"
+        y="336"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-7d2d98f77ff942d3addd7750b370fd45.xml#id-7d2d98f77ff942d3addd7750b370fd45"/>
+  </children>
 </archimate:ArchimateDiagramModel>

@@ -80,7 +80,7 @@
             fillColor="#fff0ba">
           <bounds
               x="12"
-              y="228"
+              y="288"
               width="205"
               height="97"/>
           <children
@@ -110,7 +110,7 @@
               x="12"
               y="120"
               width="205"
-              height="97"/>
+              height="145"/>
           <children
               xsi:type="archimate:DiagramModelArchimateObject"
               id="id-74740eb92d5443e1b54e6ae066bf3711"
@@ -118,9 +118,9 @@
               fillColor="#fff0ba">
             <bounds
                 x="24"
-                y="24"
+                y="36"
                 width="157"
-                height="61"/>
+                height="85"/>
             <archimateElement
                 xsi:type="archimate:BusinessActor"
                 href="BusinessActor_id-1468b143f9754f5da30d7dfb09810d7d.xml#id-1468b143f9754f5da30d7dfb09810d7d"/>
@@ -276,9 +276,9 @@
             fillColor="#fff0ba">
           <bounds
               x="24"
-              y="219"
+              y="228"
               width="180"
-              height="61"/>
+              height="73"/>
           <archimateElement
               xsi:type="archimate:BusinessActor"
               href="BusinessActor_id-9af4b1113007479ebb7f5cbc0ded98c5.xml#id-9af4b1113007479ebb7f5cbc0ded98c5"/>

@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enicom AS IS"
+    id="id-40fd13bca2a543058b64e3cb4444ac01">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-900db44a38b348339425e4bc0bf88867"
+      textAlignment="1">
+    <bounds
+        x="204"
+        y="288"
+        width="793"
+        height="205"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-a0efe17e80554e38a6624c1980825a89.xml#id-a0efe17e80554e38a6624c1980825a89"/>
+  </children>
+</archimate:ArchimateDiagramModel>

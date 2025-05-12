@@ -1,0 +1,17 @@
+<archimate:SketchModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="New Sketch"
+    id="id-c0dcf85c6df240399e110f8d5e4a26e9">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-5cf7979b86a94949ad561e03d2fb3b7c"
+      name="Group"
+      textAlignment="1">
+    <bounds
+        x="180"
+        y="204"
+        width="400"
+        height="140"/>
+  </children>
+</archimate:SketchModel>

@@ -302,7 +302,7 @@
           textPosition="1">
         <bounds
             x="36"
-            y="48"
+            y="72"
             width="133"
             height="55"/>
         <archimateElement
@@ -317,7 +317,7 @@
           textPosition="1">
         <bounds
             x="36"
-            y="120"
+            y="138"
             width="133"
             height="55"/>
         <archimateElement
@@ -332,7 +332,7 @@
           textPosition="1">
         <bounds
             x="36"
-            y="192"
+            y="216"
             width="133"
             height="55"/>
         <archimateElement

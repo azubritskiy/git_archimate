@@ -1897,7 +1897,7 @@
         id="id-1d0b72eefede416fb8de168f150607f7"
         targetConnections="id-fc70ef49749d4f1a8f59f4c8b7035469 id-2e700d04209b405faa9437d34422354e id-a026c381bb8b402eae7221bb533d5678 id-6738df9c09d843d38b520c8ce8dd3290">
       <bounds
-          x="1392"
+          x="1416"
           y="114"
           width="157"
           height="61"/>
@@ -1910,7 +1910,7 @@
         id="id-6ae0d86558b24d978e0674e4f21b6112"
         targetConnections="id-1327844086484fd1911400e82f43d195 id-054bf1e5a4bf4e18a80079cb7f87501c id-f7d5af103f584f019187108e56014c01">
       <bounds
-          x="1392"
+          x="1416"
           y="192"
           width="157"
           height="61"/>
@@ -2391,10 +2391,14 @@
           source="id-423551144252444d95dc7fe0d0bf93d5"
           target="id-fc2ac4bb787f467fb5f5ddcdb540a5ce">
         <bendpoints
-            startX="7"
-            startY="-568"
-            endX="176"
+            startX="30"
+            startY="-569"
+            endX="200"
             endY="408"/>
+        <bendpoints
+            startX="-66"
+            startY="-977"
+            endX="104"/>
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_id-c57f6eaf27de45c28e28e22cf6f67455.xml#id-c57f6eaf27de45c28e28e22cf6f67455"/>
@@ -2409,6 +2413,11 @@
             startY="-532"
             endX="140"
             endY="367"/>
+        <bendpoints
+            startX="-162"
+            startY="-533"
+            endX="8"
+            endY="366"/>
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_id-560d0241ca2d40758386a7672827e2b6.xml#id-560d0241ca2d40758386a7672827e2b6"/>

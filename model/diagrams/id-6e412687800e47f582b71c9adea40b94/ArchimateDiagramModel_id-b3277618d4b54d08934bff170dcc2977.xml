@@ -1,0 +1,16 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="copy"
+    id="id-b3277618d4b54d08934bff170dcc2977">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c6e6d2c13a6d450187a24b6af8f2fc25"
+      textAlignment="1">
+    <bounds
+        x="437"
+        y="198"
+        width="185"
+        height="80"/>
+  </children>
+</archimate:ArchimateDiagramModel>

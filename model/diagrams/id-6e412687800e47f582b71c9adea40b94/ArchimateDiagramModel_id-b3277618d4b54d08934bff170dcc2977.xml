@@ -3455,8 +3455,8 @@
           textAlignment="1"
           content="?">
         <bounds
-            x="54"
-            y="170"
+            x="36"
+            y="156"
             width="185"
             height="80"/>
       </children>

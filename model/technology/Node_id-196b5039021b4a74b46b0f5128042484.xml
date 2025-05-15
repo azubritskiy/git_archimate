@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="IAM-Node (1)"
-    id="id-196b5039021b4a74b46b0f5128042484"/>
+    name="Auth-node (1)"
+    id="id-196b5039021b4a74b46b0f5128042484"
+    documentation="Работают в связке AD+Keycloak&#xD;&#xA;Современная система идентификации и авторизации (OAuth2, OpenID, SAML). Используется для входа в приложения"/>

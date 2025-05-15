@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="API-Gateway (1)"
-    id="id-0da7539e16cc4e5ebc4394fcff4405fc"/>
+    id="id-0da7539e16cc4e5ebc4394fcff4405fc"
+    documentation="Внешний/внутренний шлюз для API (REST/HTTP)"/>

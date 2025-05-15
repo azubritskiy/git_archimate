@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Backup-Repo (1)"
-    id="id-cfc734d5510440bf95617c696b0f0cc0"/>
+    id="id-cfc734d5510440bf95617c696b0f0cc0"
+    documentation="Veam это клиент-серверное программное обеспечение для централизованного резервного копирования виртуальных машин"/>

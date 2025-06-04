@@ -1,5 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Monitor-node"
+    name="Monitor-node (1)"
     id="id-6517d675656d4f1282c1091685e778c0"
     documentation="визуализация (Grafana), логирование (Loki). Обеспечивает наблюдаемость всех ВМ, сервисов и приложений. Используется DevOps-командой и ИТ для контроля и инцидент-менеджмента."/>
